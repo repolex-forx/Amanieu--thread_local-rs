@@ -1,0 +1,11 @@
+{
+  "org": "Amanieu",
+  "repo": "thread_local-rs",
+  "versions": [
+    {
+      "commit": "4b7cc0f30b81b768fafc4b0ef4d541bfc94a0433",
+      "tag": "v1.1.9",
+      "parsed_at": "2026-11-22T10:58:06.442303+00:00"
+    }
+  ]
+}
