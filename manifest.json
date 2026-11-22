@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "Amanieu",
+  "repo": "thread_local-rs",
+  "versions": [
+    {
+      "commit": "4b7cc0f30b81b768fafc4b0ef4d541bfc94a0433",
+      "parsed_at": "2026-11-22T10:51:37.463136+00:00",
+      "tag": "v1.1.9",
+      "filetree": "filetree/4b7cc0f30b81b768fafc4b0ef4d541bfc94a0433.nq.gz",
+      "blobs": [
+        "blob/16f6516de709e6b219235e1d58841dfcdbd55b22.nq.gz",
+        "blob/40b8817a47beba464cd86e3f81260cd41b5e70dd.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/dd4716d87c89736859d6fb489a07a1a94736bb5d.nq.gz",
+        "blob/91b623374a0f63a80ad5ceab04502b6b6d9d4610.nq.gz",
+        "blob/867c0abbdbd5cb3d7435556f22b1c4c75ad78801.nq.gz",
+        "blob/d97d1730b70b70b1785ebb4d7b188fc1b600f987.nq.gz",
+        "blob/9a8f610d905d65ee6d7f6399596e69aa118f1579.nq.gz",
+        "blob/db4d831ac2314c540cfbc1d64acfec6d1038c596.nq.gz",
+        "blob/eb5a316cbd195d26e3f768c7dd8e1b47299e17f8.nq.gz",
+        "blob/c7440b79dcac2bfe460cada24c9479e41182f040.nq.gz",
+        "blob/84b23deaa6212f6d9a40dcdb7a56315ef62763c4.nq.gz",
+        "blob/c6ae68606be997967bb1fa46061bc324466b5808.nq.gz",
+        "blob/d055f9b57dc7f0a4187a8feba4830a7a75162f4c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
