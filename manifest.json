@@ -26,6 +26,31 @@
       ],
       "ast": [
         "aggregate/ast/4b7cc0f30b81b768fafc4b0ef4d541bfc94a0433/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4b7cc0f30b81b768fafc4b0ef4d541bfc94a0433.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "cfg-if",
+          "ecosystem": "CARGO",
+          "version": "1.0.0",
+          "githubOrg": "rust-lang",
+          "githubRepo": "cfg-if",
+          "githubCommit": "e60fa1efeab0ec6e90c50d93ec526e1410459c23",
+          "githubTag": "1.0.0",
+          "githubUrl": "https://github.com/rust-lang/cfg-if",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "criterion",
+          "ecosystem": "CARGO",
+          "version": "0.5.1",
+          "githubOrg": "criterion-rs",
+          "githubRepo": "criterion.rs",
+          "githubCommit": "dc2b06cd31f7aa34cff6a83a00598e0523186dad",
+          "githubTag": "0.5.1",
+          "githubUrl": "https://github.com/criterion-rs/criterion.rs",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
