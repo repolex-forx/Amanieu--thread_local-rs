@@ -51,7 +51,9 @@
           "githubUrl": "https://github.com/criterion-rs/criterion.rs",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/4b7cc0f30b81b768fafc4b0ef4d541bfc94a0433/chunk-001.nq.gz",
+      "dep": "dep/4b7cc0f30b81b768fafc4b0ef4d541bfc94a0433.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
